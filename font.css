@@ -1,8 +1,6 @@
 h1 {
-    font-family: "Roboto Slab", serif;
-    text-align: center;
-  font-optical-sizing: auto;
-  font-weight: 600;
+    font-family: "Gowun Batang", serif;
+  font-weight: 700;
   font-style: normal;
     margin: 1rem;
     margin-left: 1rem;
@@ -12,8 +10,9 @@ h1 {
 }
 
 p {
-    font-family: "Gowun Batang", serif;
-  font-weight: 700;
-  font-style: normal;";
-    text-align: center;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 }
