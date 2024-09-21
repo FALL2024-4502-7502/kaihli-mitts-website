@@ -2,9 +2,6 @@ body {
     background-color: #ffc0cb ;
 }
 
-
-
-
     h1 {
     font-family: "Gowun Batang", serif;
   font-weight: 700;
@@ -45,3 +42,11 @@ img {
         align-items: center;
         width: 100%;
     }
+
+div {
+    align-items: center;
+}
+
+nav {
+    align-items: center;
+}
