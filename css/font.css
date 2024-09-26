@@ -44,8 +44,10 @@ img {
         width: 50%;
     }
 
-div {
+div1 {
     text-align: center;
+    display: flex;
+    flex-direction: column;
 }
 
 nav {
