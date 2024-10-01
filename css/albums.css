@@ -33,8 +33,6 @@ nav {
 	text-align: center;
     display: flex;
     flex-direction: column;
-    background-color: #000000;
-    width: 50px;
 }
 img {
 	align-items: center;
@@ -103,7 +101,7 @@ h1 {
 @media screen and (min-width:501px){
 
 body {
-	background-color: #f2e4fd;
+	background-color: #f2e4f;
 }
 	p {
 		margin-left: 30px;
