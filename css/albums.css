@@ -18,6 +18,7 @@ h1 {
 nav {
 	text-align: center;
     display: flex;
+    flex-direction: column;
 }
 img {
 	align-items: center;
