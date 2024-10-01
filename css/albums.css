@@ -11,6 +11,11 @@ footer {
     flex-direction: column;
     background-color: #66b2b2;
     height: 50px;
+    font-family: "Shadows Into Light";
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  list-style: none;
 }
 h1 {
 	text-align: center;
