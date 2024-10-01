@@ -33,6 +33,7 @@ nav {
 	text-align: center;
     display: flex;
     flex-direction: column;
+    border: 2px;
 }
 img {
 	align-items: center;
