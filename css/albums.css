@@ -30,11 +30,11 @@ h1 {
   color: #66b2b2;
 }
 nav {
-	text-align: center;
-    display: flex;
     flex-direction: column;
     border:2px solid whitesmoke;
     max-width: 25%;
+    text-align: center;
+    display: flex;
 }
 img {
 	align-items: center;
