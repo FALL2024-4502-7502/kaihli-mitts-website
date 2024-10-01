@@ -10,7 +10,7 @@ footer {
     display: flex;
     flex-direction: column;
     background-color: #66b2b2;
-    height: 200px;
+    height: 400px;
 }
 h1 {
 	text-align: center;
