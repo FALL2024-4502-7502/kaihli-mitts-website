@@ -33,7 +33,6 @@ nav {
 	text-align: center;
     display: flex;
     flex-direction: column;
-    background-color: #000000;
 }
 img {
 	align-items: center;
@@ -68,7 +67,9 @@ p {
 	margin-right: 250px;
 }
 
-
+a {
+	background-color: #000000;
+}
 
 
 
