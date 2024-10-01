@@ -109,5 +109,11 @@ body {
 	body {
     background-color: #ffc0cb ;
 }
+img {
+	align-items: center;
+	display: flex;
+	max-width: 95%;
+	height: 250px;
+	width: 250px;
 }
 
