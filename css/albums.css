@@ -32,7 +32,6 @@ h1 {
 nav {
     flex-direction: column;
     border:2px solid whitesmoke;
-    max-width: 25%;
     text-align: center;
     display: flex;
 }
