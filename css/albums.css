@@ -12,6 +12,7 @@ footer {
     background-color: #66b2b2;
     width: 300px;
   	height: 100px;
+  	align-items: center;
 }
 h1 {
 	text-align: center;
