@@ -76,8 +76,15 @@ body {
 	display: flex;
 	max-width: 95%;
 }
+body {
+	background-color: #66b2b2;
+}
+}
+@media screen and (min-width:501px){
+
 }
 
+@media screen and (min-width:720px){
 
-
+}
 
