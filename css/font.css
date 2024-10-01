@@ -55,3 +55,9 @@ nav {
     display: flex;
     flex-direction: column;
 }
+
+albums {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
