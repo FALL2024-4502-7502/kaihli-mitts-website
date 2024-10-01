@@ -63,3 +63,9 @@ nav {
     align-items: center;
    
 }
+footer {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    background-color: #66b2b2;
+}
