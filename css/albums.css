@@ -20,5 +20,6 @@ nav {
     display: flex;
 }
 img {
-	display: flex;
+	align-items: center;
+	max-width: 50%;
 }
