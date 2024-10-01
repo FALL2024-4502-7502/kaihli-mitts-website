@@ -19,3 +19,6 @@ nav {
 	text-align: center;
     display: flex;
 }
+img {
+	width: 500px;
+}
