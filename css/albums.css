@@ -35,7 +35,7 @@ nav {
     flex-direction: column;
     background-color: whitesmoke;
 	flex-flow: row wrap;
-	align-items: stretch;
+	align-items: center;
 	list-style-type: none;
 	padding: 0.3rem;
 	margin: 0.1rem;
