@@ -103,6 +103,8 @@ body {
 }
 
 @media screen and (min-width:720px){
-
+	body {
+    background-color: #ffc0cb ;
+}
 }
 
