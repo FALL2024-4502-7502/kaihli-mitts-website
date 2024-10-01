@@ -56,3 +56,28 @@ h2 {
 body {
     background-color: #ffc0cb ;
 }
+
+
+
+
+
+
+
+
+
+/*start of media queries*/
+@media screen and (max-width: 500px){
+
+
+
+
+	img {
+	align-items: center;
+	display: flex;
+	max-width: 95%;
+}
+}
+
+
+
+
