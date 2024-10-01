@@ -69,3 +69,7 @@ footer {
     flex-direction: column;
     background-color: #66b2b2;
 }
+
+.albums h1 { 
+    font-weight: 800;
+ }
