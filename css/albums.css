@@ -6,7 +6,6 @@
    
 }
 footer {
-	padding-top: 10px;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -50,6 +49,7 @@ h2 {
   font-style: normal;
   text-align: center;
   color: #66b2b2;
+  padding-bottom: -10px;
 }
 body {
     background-color: #ffc0cb ;
