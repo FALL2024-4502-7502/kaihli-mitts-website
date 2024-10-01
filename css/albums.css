@@ -104,5 +104,8 @@ body {
 
 @media screen and (min-width:720px){
 
+body {
+	background-color: #b19cd9;
+}
 }
 
