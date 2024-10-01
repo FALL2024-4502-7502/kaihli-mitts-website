@@ -31,8 +31,9 @@ h1 {
 }
 nav {
 	text-align: center;
-    display: flex;
+    display: inline-flex;
     flex-direction: column;
+    width: 30px;
 }
 img {
 	align-items: center;
