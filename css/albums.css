@@ -68,7 +68,11 @@ p {
 	margin-right: 250px;
 }
 
-
+a {
+	text-align: center;
+	display: flex;
+	border: 5px solid whitesmoke;
+}
 
 
 
