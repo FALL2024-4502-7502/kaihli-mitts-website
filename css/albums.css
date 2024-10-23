@@ -5,6 +5,14 @@
     align-items: center;
    
 }
+
+
+.flourish-embed-iframe {
+	align-items: center;
+}
+
+
+
 footer {
     text-align: center;
     display: flex;
