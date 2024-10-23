@@ -88,7 +88,7 @@ a:link {
 	display: flex;
 	max-width: 95%;
 	height: 350px;
-	width: 350px;
+	width: 400px;
 }
 body {
 	background-color: #ffffff;
@@ -118,7 +118,7 @@ img {
 	display: flex;
 	max-width: 95%;
 	height: 200px;
-	width: 200px;
+	width: 250px;
 	margin-top: 15px;
 }
 h1 {
@@ -135,7 +135,7 @@ img {
 	display: flex;
 	max-width: 95%;
 	height: 300px;
-	width: 300px;
+	width: 350px;
 	margin-top: 30px;
 }
 
