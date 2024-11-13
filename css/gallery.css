@@ -447,13 +447,8 @@ img {
 	}
 
 h1 {
-    font-family: "Gowun Batang", serif;
-  font-weight: 700;
-  font-style: normal;
-  text-align: center;
-    margin: 1rem;
-    margin-left: 1rem;
-    color: #66b2b2;
+	font-family: "Gowun Batang";
+	font-weight: 700;
 
 /*	text-decoration: underline 2rem solid gold;*/
 }
