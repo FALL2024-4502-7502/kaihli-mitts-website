@@ -91,12 +91,7 @@ wiki link wiki-link*/
 
 .list-item h2 {
 	display: flex;
-    font-family: "Gowun Batang", serif;
-  font-weight: 700;
-  font-style: normal;
-  text-align: center;
-  color: #66b2b2;
-}
+	font-family: 'Pixelify Sans', cursive; 
 /*	This will fall back to a default font when not connected*/
 }
 
@@ -452,7 +447,13 @@ img {
 	}
 
 h1 {
-	font-weight: 700;
+    font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+    margin: 1rem;
+    margin-left: 1rem;
+    color: #66b2b2;
 
 /*	text-decoration: underline 2rem solid gold;*/
 }
