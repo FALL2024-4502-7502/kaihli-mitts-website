@@ -233,6 +233,8 @@ h1 {
 img {
 	align-items: center;
 	display: flex;
+	height: 600px;
+	width: 700px;
 	max-width: 95%;
 	margin-top: 30px;
 }
