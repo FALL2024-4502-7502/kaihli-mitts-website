@@ -169,7 +169,7 @@ wiki link wiki-link*/
     	right: 0;
 /*    	width: 100%;*/
     	z-index: 3;
-    	color: #fff;
+    	color: #000;
 	    font-family: 'Gowun Batang';
     	font-size: 0.8rem;
     	padding: 1rem;
@@ -597,7 +597,7 @@ figcaption {
 	
 	display: flex;
 	flex-direction: row;
-	color: #fff;
+	color: #000;
 }
 
 button_next {  }
