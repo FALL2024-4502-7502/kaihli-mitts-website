@@ -51,6 +51,7 @@ img {
 }
 
 nav {
+    font-family: "Shadows Into Light";
     text-align: center;
     display: flex;
     flex-direction: column;
