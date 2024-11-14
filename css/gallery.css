@@ -512,10 +512,9 @@ p {
 	}
 
 nav {
-    flex-direction: column;
-    border:2px solid whitesmoke;
-    text-align: center;
-    display: flex;
+	background-color: rgba(255, 255, 255, 0.0);
+	max-width: 100%px;
+	font-size: 1rem;
 }
 
 nav ul {
@@ -571,7 +570,7 @@ nav ul li a {
 	margin-right: 0.8rem;
 }
 
-.gallery-descrip h1 {
+.gallery-descrip web h1 {
 	text-align: center;
     display: flex;
     font-family: "Gowun Batang", serif;
@@ -638,11 +637,6 @@ button {
 	max-width: 80%;
 /*	max-height: 100vh;*/
 	
-nav {
-    flex-direction: column;
-    border:2px solid whitesmoke;
-    text-align: center;
-    display: flex;
 
 }
 
