@@ -24,6 +24,7 @@ button_previous {  }
 .stepper {  }
 
 button {
+	font-family: "Shadows Into Light";
 	background-color: #66b2b2;
 	margin: 1rem;
 	padding: 1rem;
