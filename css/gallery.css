@@ -616,7 +616,6 @@ button {
 	min-width: 10rem;
 	font-size: 1.2rem;
 	border-radius: 0.5rem;
-	border: 5px solid	rgba(127,255,0,0.5);
 }
 
 .button-start {
