@@ -585,8 +585,14 @@ nav ul li a {
 }
 
 figcaption {
-	
-	color: #000;
+	text-align: center;
+    display: flex;
+    font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  font-size: 60px;
+  color: #000;
 }
 
 
