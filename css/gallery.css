@@ -571,14 +571,11 @@ nav ul li a {
 }
 
 .gallery-descrip web h1 {
-	text-align: center;
-    display: flex;
-    font-family: "Gowun Batang", serif;
-  font-weight: 700;
+	font-family: "Shadows Into Light";
+  font-weight: 400;
   font-style: normal;
   text-align: center;
-  font-size: 60px;
-  color: #66b2b2;
+  list-style: none;
 }
 
 .gallery-descrip p {
