@@ -580,12 +580,19 @@ nav ul li a {
 }
 
 .gallery-descrip p {
-	color: #fff;
+	color: #000;
 
 }
 
 figcaption {
-	color: #000;
+	text-align: center;
+    display: flex;
+    font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  font-size: 60px;
+  color: #000;
 }
 
 
