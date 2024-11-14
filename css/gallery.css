@@ -482,9 +482,14 @@ img {
 	}
 
 h1 {
-	font-weight: 700;
-
-/*	text-decoration: underline 2rem solid gold;*/
+	text-align: center;
+    display: flex;
+    font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  font-size: 60px;
+  color: #66b2b2;
 }
 
 h2 {
@@ -566,9 +571,14 @@ nav ul li a {
 }
 
 .gallery-descrip h1 {
-	color:#000;
-	font-size: 3rem;
-
+	text-align: center;
+    display: flex;
+    font-family: "Gowun Batang", serif;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+  font-size: 60px;
+  color: #66b2b2;
 }
 
 .gallery-descrip p {
