@@ -184,8 +184,7 @@ figcaption {
 
 
 
-	img {
-	text-align: center;
+img {
 	display: flex;
 	max-width: 95%;
 	height: 300px;
@@ -215,7 +214,6 @@ body {
 	}
 
 img {
-	align-items: center;
 	display: flex;
 	max-width: 95%;
 	height: 350px;
@@ -232,7 +230,6 @@ h1 {
     background-color: #f2e4f ;
 }
 img {
-	align-items: center;
 	display: flex;
 	height: 600px;
 	width: 650px;
