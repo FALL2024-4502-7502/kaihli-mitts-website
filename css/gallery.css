@@ -481,7 +481,7 @@ img {
 /*		width: 100%;*/
 	}
 
-h1 {
+.gallery-example h1 {
 	text-align: center;
     display: flex;
     font-family: "Gowun Batang", serif;
