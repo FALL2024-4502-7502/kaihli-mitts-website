@@ -120,13 +120,11 @@ wiki link wiki-link*/
 
 
 .list-item h2 {
-	font-family: "Gowun Batang", serif;
-  font-weight: 700;
+	font-family: "Shadows Into Light";
+  font-weight: 400;
   font-style: normal;
   text-align: center;
-    margin: 1rem;
-    margin-left: 1rem;
-    color: #66b2b2;
+  list-style: none;
 /*	This will fall back to a default font when not connected*/
 }
 
@@ -571,11 +569,14 @@ nav ul li a {
 }
 
 .gallery-descrip web h1 {
-	font-family: "Shadows Into Light";
-  font-weight: 400;
+	text-align: center;
+    display: flex;
+    font-family: "Gowun Batang", serif;
+  font-weight: 700;
   font-style: normal;
   text-align: center;
-  list-style: none;
+  font-size: 60px;
+  color: #66b2b2;
 }
 
 .gallery-descrip p {
@@ -584,6 +585,7 @@ nav ul li a {
 }
 
 figcaption {
+	
 	color: #000;
 }
 
