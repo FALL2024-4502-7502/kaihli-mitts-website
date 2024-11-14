@@ -45,7 +45,6 @@ button {
 
 .gallery-image img {
 	width: 100%;
-	text-align: center;
 /*	max-height: 500px;*/
 }
 
@@ -128,8 +127,7 @@ nav {
 }
 img {
 	align-items: center;
-	display: flex;
-	max-width: 100%;
+	
 }
 h3 {
 	margin-top: 0px;
