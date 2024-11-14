@@ -73,6 +73,12 @@ example-image {
 	flex-wrap: wrap;
 }
 
+.list-image {
+	display: flex;
+	justify-content: flex-start;
+	align-items: flex-start;
+	position: relative;
+}
 
 
 
