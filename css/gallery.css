@@ -150,12 +150,6 @@ nav {
     border:2px solid whitesmoke;
     text-align: center;
     display: flex;
-    background-color: #66b2b2;
-    margin: 1rem;
-	padding: 1rem;
-	min-width: 10rem;
-	font-size: 1.2rem;
-	border-radius: 0.5rem;
 
 }
 img {
@@ -193,9 +187,9 @@ p {
 }
 
 a {
-  background-color: white;
+  background-color: #66b2b2;
   color: black;
-  border: 2px solid green;
+  border: 2px black;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
