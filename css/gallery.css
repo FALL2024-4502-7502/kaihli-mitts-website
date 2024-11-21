@@ -188,7 +188,7 @@ p {
 a {
   background-color: #66b2b2;
   color: black;
-  border: 2px black;
+  border: 2px #000;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
