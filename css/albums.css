@@ -62,6 +62,7 @@ nav {
     border:2px solid whitesmoke;
     text-align: center;
     display: flex;
+    background-color: #fff;
 }
 img {
 	align-items: center;
