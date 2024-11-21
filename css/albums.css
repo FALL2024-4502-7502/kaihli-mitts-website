@@ -63,6 +63,7 @@ nav {
     text-align: center;
     display: flex;
     background-color: #66b2b2;
+    border-width: 200px;
 }
 img {
 	align-items: center;
