@@ -58,7 +58,7 @@ h1 {
 }
 nav {
 	font-family: "Shadows Into Light";
-    flex-direction: column;
+    flex-direction: row;
     border:2px solid whitesmoke;
     text-align: center;
     display: flex;
