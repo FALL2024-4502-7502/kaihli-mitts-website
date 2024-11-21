@@ -30,7 +30,7 @@
 	align-items: center;
 }
 
-.venue-map {
+.venue-map h1 {
 	text-align: center;
     display: flex;
     font-family: "Gowun Batang", serif;
