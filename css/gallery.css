@@ -194,6 +194,7 @@ a {
   text-decoration: none;
   display: inline-block;
   width: 200px;
+  justify-content: center;
 }
 
 figcaption {
