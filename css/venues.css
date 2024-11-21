@@ -49,10 +49,17 @@ h1 {
   color: #66b2b2;
 }
 nav {
+   font-family: "Shadows Into Light";
     flex-direction: column;
     border:2px solid whitesmoke;
     text-align: center;
     display: flex;
+    background-color: #66b2b2;
+    margin: 1rem;
+	padding: 1rem;
+	min-width: 10rem;
+	font-size: 1.2rem;
+	border-radius: 0.5rem;
 }
 img {
 	align-items: center;
