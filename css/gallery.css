@@ -189,7 +189,7 @@ p {
 a {
   background-color: #66b2b2;
   color: black;
-  border: 2px #000;
+  border: 2px;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
