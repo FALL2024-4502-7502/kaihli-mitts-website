@@ -25,6 +25,10 @@
    
 }
 
+.venue-map h1 {
+	text-align: center;
+}
+
 footer {
     text-align: center;
     display: flex;
