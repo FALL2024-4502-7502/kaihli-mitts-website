@@ -49,17 +49,11 @@ h1 {
   color: #66b2b2;
 }
 nav {
-   font-family: "Shadows Into Light";
-    flex-direction: column;
-    border:2px solid whitesmoke;
+    font-family: "Shadows Into Light";
+    flex-direction: row;
     text-align: center;
     display: flex;
-    background-color: #66b2b2;
-    margin: 1rem;
-	padding: 1rem;
-	min-width: 10rem;
-	font-size: 1.2rem;
-	border-radius: 0.5rem;
+    justify-content: center;
 }
 img {
 	align-items: center;
@@ -96,13 +90,18 @@ p {
 }
 
 a {
-	color: black;
-	font-family: "Shadows Into Light";
-  font-weight: 400;
-  font-style: normal;
+  background-color: #66b2b2;
+  color: black;
+  border: 2px;
+  border-color: black;
+  padding: 10px 20px;
   text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 200px;
+  justify-content: center;
+  border-radius: 0.5rem;
 }
-
 
 
 
