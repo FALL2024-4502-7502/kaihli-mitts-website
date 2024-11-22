@@ -25,10 +25,6 @@
    
 }
 
-.venue-map h1 {
-	text-align: center;
-}
-
 footer {
     text-align: center;
     display: flex;
@@ -45,7 +41,6 @@ footer {
 }
 h1 {
 	text-align: center;
-    display: flex;
     font-family: "Gowun Batang", serif;
   font-weight: 700;
   font-style: normal;
