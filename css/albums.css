@@ -185,3 +185,8 @@ img {
 a:link{
 	color: black;
 }
+
+.map {
+	height: 500px;
+	width: 650px;
+}
