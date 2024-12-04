@@ -122,10 +122,6 @@ body {
 h1 { 
     font-size: 40px;
  }
-
-a {
-    padding: 4px;
-    height: 31px;
 }
 
 
@@ -149,7 +145,7 @@ h1 {
 }
 
 a {
-    text-align: center;
+    justify-content: center;
 }
 
 @media screen and (min-width:720px){
@@ -160,21 +156,6 @@ img {
     display: flex;
     max-width: 30%;
     margin-top: 30px;
-}
-a {
-  background-color: #66b2b2;
-  color: black;
-  border: 2px;
-  border-color: black;
-  padding: 10px 20px;
-  text-align: center;
-  text-decoration: none;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  border-radius: 0.5rem;
-  margin-right: 10px;
-  margin-left: 10px;
 }
 
 a:link{
