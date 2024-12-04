@@ -107,7 +107,7 @@ a {
 
 img {
     display: flex;
-    max-width: 30%;
+    max-width: 90%;
 }
 body {
     background-color: #f2e4f;
@@ -148,7 +148,7 @@ h1 {
 }
 img {
     display: flex;
-    max-width: 90%;
+    max-width: 30%;
     margin-top: 30px;
 }
 
