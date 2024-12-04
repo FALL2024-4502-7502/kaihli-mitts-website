@@ -109,20 +109,49 @@ img {
     display: flex;
     max-width: 90%;
 }
+body {
+    background-color: #f2e4f;
+}
 
+    p {
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+h1 { 
+    font-size: 40px;
+ }
+}
 
 @media screen and (min-width:501px){
+
+body {
+    background-color: #f2e4f;
+}
+    p {
+        margin-left: 35px;
+        margin-right: 35px;
+    }
 
 img {
     display: flex;
     max-width: 60%;
     margin-top: 15px;
 }
+h1 {
+    font-size: 50px;
+}
+}
 
 @media screen and (min-width:720px){
-   
+    body {
+    background-color: #f2e4f ;
+}
 img {
     display: flex;
     max-width: 30%;
     margin-top: 30px;
+}
+
+a:link{
+    color: black;
 }
