@@ -80,3 +80,17 @@ nav {
     border-radius: 0.5rem;
     justify-content: space-evenly;
 }
+
+a {
+  background-color: #66b2b2;
+  color: black;
+  border: 2px;
+  border-color: black;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  width: 200px;
+  justify-content: center;
+  border-radius: 0.5rem;
+}
