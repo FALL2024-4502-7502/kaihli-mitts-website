@@ -92,6 +92,7 @@ a {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  display: flex;
   justify-content: center;
   border-radius: 0.5rem;
   margin-right: 10px;
