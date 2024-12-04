@@ -105,8 +105,6 @@ a {
 @media screen and (max-width: 500px){
 
 
-
-
 img {
     display: flex;
     max-width: 90%;
@@ -148,6 +146,7 @@ a {
     justify-content: center;
 }
 
+
 @media screen and (min-width:720px){
     body {
     background-color: #f2e4f ;
@@ -160,4 +159,5 @@ img {
 
 a:link{
     color: black;
+}
 }
