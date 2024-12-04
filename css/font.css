@@ -59,6 +59,7 @@ li {
 
 img {
         align-items: center;
+        display: flex;
         width: 50%;
     }
 
