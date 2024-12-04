@@ -145,7 +145,7 @@ h1 {
 }
 
 a {
-    justify-content: center;
+    text-align: center;
 }
 
 @media screen and (min-width:720px){
