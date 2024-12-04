@@ -58,9 +58,10 @@ li {
 }
 
 img {
-        align-items: center;
-        display: flex;
-        width: 50%;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
     }
 
 .picture-centered-text {
