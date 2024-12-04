@@ -120,6 +120,9 @@ body {
 h1 { 
     font-size: 40px;
  }
+ a {
+    font-size: 10px;
+ }
 }
 
 
