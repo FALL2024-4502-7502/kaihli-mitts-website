@@ -219,8 +219,6 @@ figcaption {
 img {
 	display: flex;
 	max-width: 95%;
-	height: 300px;
-	width: 400px;
 }
 body {
 	background-color: #f2e4f;
@@ -248,8 +246,6 @@ body {
 img {
 	display: flex;
 	max-width: 95%;
-	height: 350px;
-	width: 250px;
 	margin-top: 15px;
 }
 h1 {
@@ -263,8 +259,6 @@ h1 {
 }
 img {
 	display: flex;
-	height: 600px;
-	width: 650px;
 	max-width: 50%;
 	margin-top: 30px;
 }
