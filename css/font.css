@@ -92,7 +92,8 @@ a {
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: flex;
+  flex-direction: row;
   justify-content: center;
   border-radius: 0.5rem;
   margin-right: 10px;
