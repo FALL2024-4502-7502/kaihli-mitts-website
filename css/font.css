@@ -134,7 +134,7 @@ body {
 
 img {
     display: flex;
-    max-width: 30%;
+    max-width: 60%;
     margin-top: 15px;
 }
 h1 {
@@ -148,7 +148,7 @@ h1 {
 }
 img {
     display: flex;
-    max-width: 30%;
+    max-width: 90%;
     margin-top: 30px;
 }
 
