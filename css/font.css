@@ -124,6 +124,10 @@ h1 {
     position: relative;
     flex-direction: column;
  }
+
+ nav {
+    margin: 10px;
+ }
 }
 
 
