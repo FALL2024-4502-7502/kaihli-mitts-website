@@ -53,8 +53,10 @@ li {
   font-weight: 400;
   font-style: normal;
   text-align: center;
-  align-items: center;
   list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
 
