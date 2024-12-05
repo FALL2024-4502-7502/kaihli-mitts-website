@@ -48,6 +48,12 @@ h2 {
   color: #66b2b2;
 }
 
+ul {
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 li {
   font-family: "Shadows Into Light";
   font-weight: 400;
