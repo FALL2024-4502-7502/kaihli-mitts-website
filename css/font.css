@@ -48,7 +48,7 @@ h2 {
   color: #66b2b2;
 }
 
-ul {
+.flex1 {
     display: flex;
   justify-content: center;
   align-items: center;
@@ -58,11 +58,7 @@ li {
   font-family: "Shadows Into Light";
   font-weight: 400;
   font-style: normal;
-  text-align: center;
   list-style: none;
-  display: flex;
-  justify-content: center;
-  align-items: center;
 
 }
 
